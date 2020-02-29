@@ -18,4 +18,4 @@ Rails 5 app, API-only, serving Create React App client on the front end, with fu
 
 ###Following the instructions provided by [Heroku] (https://blog.heroku.com/a-rock-solid-modern-web-stack) 
 
-###Refer to web version [here] (https://list-of-ingredients.herokuapp.com/)
+###Refer to web version [here] (https://fathomless-reaches-32058.herokuapp.com/)
